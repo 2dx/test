@@ -1,3 +1,3 @@
 # test
 
-## this project is demo.
+## this project is demo!
